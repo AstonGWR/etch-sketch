@@ -29,3 +29,19 @@ body {
     display: grid;
     border: 1px solid black;
 }
+
+.button {
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#btn_black {
+    background-color: black;
+    color: aliceblue;
+
+}
+
+#btn_rand {
+    background-color: purple;
+    color: aqua;
+}
